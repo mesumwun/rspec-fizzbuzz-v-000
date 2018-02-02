@@ -1,4 +1,4 @@
-def fizzbuzz
+def fizzbuzz()
   if (fizzbuzz % 3 == 0) && (fizzbuzz % 5 == 0)
     return "FizzBuzz"
   elsif fizzbuzz % 3 == 0
